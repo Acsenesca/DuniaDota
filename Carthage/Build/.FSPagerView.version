@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "0.8.3",
+  "iOS" : [
+    {
+      "name" : "FSPagerView",
+      "hash" : "039d59202db481aea335bfb3e7484822577aa71c8067a56677a43c5d4fd70396",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}

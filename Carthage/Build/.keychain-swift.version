@@ -1,0 +1,31 @@
+{
+  "Mac" : [
+    {
+      "name" : "KeychainSwift",
+      "hash" : "5cf86136c8928437690d6b0ebd08729103225afa5b69156fa149fc8fee8721a9",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "KeychainSwift",
+      "hash" : "4e3c7646336f22a171344a07670beb628c935c8c80e4761cdf15352b866ab79b",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "KeychainSwift",
+      "hash" : "dec27f19fa8ed9ce0e9d29b309a3be56daaad046838690825ae02aed22041674",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ],
+  "commitish" : "19.0.0",
+  "iOS" : [
+    {
+      "name" : "KeychainSwift",
+      "hash" : "5e474367b4260fce29a131c4706afdf6f39c356855e68490006ca27d620a19da",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}
